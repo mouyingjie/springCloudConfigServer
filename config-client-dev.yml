@@ -1,0 +1,14 @@
+server:
+  port: 8181
+
+# @value取值
+info:
+  name: dev-git
+# @configurationproperties取值
+user:
+  name: zhangsan-git
+  sex: 男
+# @environment取值
+demo:
+  test:
+    env: env-test-git
